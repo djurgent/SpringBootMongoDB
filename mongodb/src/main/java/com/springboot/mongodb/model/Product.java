@@ -2,6 +2,7 @@ package com.springboot.mongodb.model;
 
 public class Product {
 	
-	private String name1;
+	private String name;
+	private String state;
 
 }
